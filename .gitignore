@@ -1,0 +1,58 @@
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional REPL history
+.node_repl_history
+
+# Output of 'npm pack'
+*.tgz
+
+# dotenv environment variables file
+.env
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# IntelliJ project files
+.idea/
+
+# VS Code settings
+.vscode/
+
+# Logs
+logs
+*.log
+
+# Build output
+build/
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# .nyc_output directory used by nyc
+.nyc_output/
+
+# Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
+.grunt
+
+# Bower dependency directory (https://bower.io/)
+bower_components/
+
+# Compiled binary addons (https://nodejs.org/api/addons.html)
+build/Release
+
+# dotenv environment variables file
+.env
+
+# Dependency directories
+node_modules/
